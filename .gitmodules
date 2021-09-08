@@ -1,0 +1,3 @@
+[submodule "musicTogether-backend"]
+	path = musicTogether-backend
+	url = https://github.com/aishikamidder05/musicTogether-backend
